@@ -962,6 +962,11 @@
     (uuid fddd8d02-5bde-4664-8ccc-1661ea3c50d7)
   )
 
+  (text "C11 & C22 depends on the regulator U1" (at 39.37 114.3 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid db532ed2-914c-41b4-b389-de2bf235d0a7)
+  )
+
   (symbol (lib_id "Device:C") (at 36.068 91.186 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 053a652d-9d7b-42d8-b1d6-f364ffecab72)
