@@ -1,6 +1,6 @@
 ![FreeDSP logo](https://github.com/freeDSP/WIKI-AND-GENERAL-TOPICS/raw/master/LOGOs/freeDSP/freeDSP%20LOGO/freeDSP_LOGO.png)
 
-# freeDSP-aurora-expansion-port-extender
+# freeDSP aurora expansion port extender and 3V3 PS
 
 PCB to expand the freeDSP aurora expansion port with 3V3 regulator
 
