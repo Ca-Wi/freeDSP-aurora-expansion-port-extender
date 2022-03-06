@@ -4,6 +4,7 @@
 
 PCB to expand the freeDSP aurora expansion port with 3V3 regulator
 
+![PCB Top](Picture/freeDSP-aurora-expansion-port-extender-top_small.jpg)
 
 ## Contributing
 
